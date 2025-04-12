@@ -6,7 +6,7 @@
 
 An intelligent chatbot that helps with travel planning using natural language processing (NLP) and machine learning.
 
-![Chatbot Demo](demo.gif) 
+![Chatbot Demo](demo.gif.gif) 
 
 ## ✨ Features
 
